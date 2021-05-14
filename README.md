@@ -1,1 +1,1 @@
-# classification_of_birds_using_logistic_regression
+# classification_of_birds_using_multiple_logistic_regression
